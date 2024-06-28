@@ -1,1 +1,2 @@
-<img width="904" alt="image" src="https://github.com/johnhcolani/Wheather_App_Jetpack_Compose/assets/91166301/b20ac8af-90a7-4640-bebc-c4a98f2867f8">
+<img width="799" alt="image" src="https://github.com/johnhcolani/Wheather_App_Jetpack_Compose/assets/91166301/3b3e351c-1896-4664-902d-0ac46bbae657">
+
